@@ -1,5 +1,12 @@
 Some changes in the content.
 
+<<<<<<< HEAD
 This project will contain...
 Repository made for exercises.
 Hello, again!!!
+=======
+
+This project will contain...
+Depository made for exercises. 
+Hello again.
+>>>>>>> develop
