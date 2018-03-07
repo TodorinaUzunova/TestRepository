@@ -10,3 +10,5 @@ We resolved the conflict .
 
 This will make another conflict with Git Bash using.
 
+Make another conflict.
+
