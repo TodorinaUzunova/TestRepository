@@ -10,4 +10,4 @@ We resolved the conflict .
 
 This will make another conflict with Git Bash using.
 
-Just another change for conflict.
+Just another change for conflict. Hi!
