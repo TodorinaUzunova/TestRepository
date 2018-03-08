@@ -13,3 +13,6 @@ Hello again.
 
 This is cloning with Gitbash.
 Hello,again!
+
+Hello, again!
+This is for the new branch.
